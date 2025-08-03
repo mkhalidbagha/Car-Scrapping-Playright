@@ -1,0 +1,221 @@
+{
+  "metadata": {
+    "scraped_at": "2025-07-26T13:58:03.728362",
+    "total_records": 10,
+    "source": "theclassicvaluer.com/the-market",
+    "scraper_version": "4.0_popup_details",
+    "extraction_method": "click_and_extract_popup_details"
+  },
+  "results": [
+    {
+      "make": "Volkswagen",
+      "model": "Scirocco",
+      "production_year": "2025",
+      "date_of_sale": "27/07/2025",
+      "sold_price": "£14,000",
+      "manual_gearbox": null,
+      "description": "27 Jul 2025 1979 Volkswagen Scirocco Auction • UK £14,000 - £16,000 Estimate",
+      "auction_house": "Hampson",
+      "country_of_sale": "United Kingdom",
+      "spyder": false,
+      "additional_details": {
+        "registration": "",
+        "chassis_number": "",
+        "mot": "",
+        "odometer": "",
+        "engine_size": ""
+      },
+      "listing_index": 0,
+      "extraction_method": "detailed_popup"
+    },
+    {
+      "make": "Cadillac",
+      "model": "Coupe Deville",
+      "production_year": "2025",
+      "date_of_sale": "27/07/2025",
+      "sold_price": "£25,000",
+      "manual_gearbox": null,
+      "description": "27 Jul 2025 1965 Cadillac Coupe Deville Auction • UK £25,000 - £35,000 Estimate",
+      "auction_house": "Hampson",
+      "country_of_sale": "United Kingdom",
+      "spyder": false,
+      "additional_details": {
+        "registration": "",
+        "chassis_number": "",
+        "mot": "",
+        "odometer": "",
+        "engine_size": ""
+      },
+      "listing_index": 1,
+      "extraction_method": "detailed_popup"
+    },
+    {
+      "make": "MINI",
+      "model": "Cooper",
+      "production_year": "2025",
+      "date_of_sale": "27/07/2025",
+      "sold_price": "Awaiting Estimate",
+      "manual_gearbox": null,
+      "description": "27 Jul 2025 1995 Mini Cooper Auction • UK Awaiting Estimate ​",
+      "auction_house": "Hampson",
+      "country_of_sale": "United Kingdom",
+      "spyder": false,
+      "additional_details": {
+        "registration": "",
+        "chassis_number": "",
+        "mot": "",
+        "odometer": "",
+        "engine_size": ""
+      },
+      "listing_index": 2,
+      "extraction_method": "detailed_popup"
+    },
+    {
+      "make": "Peugeot",
+      "model": "205 GTI",
+      "production_year": "2025",
+      "date_of_sale": "27/07/2025",
+      "sold_price": "£15,000",
+      "manual_gearbox": null,
+      "description": "27 Jul 2025 1994 Peugeot 205 GTI 1.9 Auction • UK £15,000 - £17,000 Estimate",
+      "auction_house": "Hampson",
+      "country_of_sale": "United Kingdom",
+      "spyder": false,
+      "additional_details": {
+        "registration": "",
+        "chassis_number": "",
+        "mot": "",
+        "odometer": "",
+        "engine_size": ""
+      },
+      "listing_index": 3,
+      "extraction_method": "detailed_popup"
+    },
+    {
+      "make": "Cadillac",
+      "model": "Fastback Coupe",
+      "production_year": "2025",
+      "date_of_sale": "27/07/2025",
+      "sold_price": "£30,000",
+      "manual_gearbox": null,
+      "description": "27 Jul 2025 1949 Cadillac Fastback Coupe Auction • UK £30,000 - £35,000 Estimate",
+      "auction_house": "Hampson",
+      "country_of_sale": "United Kingdom",
+      "spyder": false,
+      "additional_details": {
+        "registration": "",
+        "chassis_number": "",
+        "mot": "",
+        "odometer": "",
+        "engine_size": ""
+      },
+      "listing_index": 4,
+      "extraction_method": "detailed_popup"
+    },
+    {
+      "make": "Nissan",
+      "model": "300ZX Twin Turbo",
+      "production_year": "2025",
+      "date_of_sale": "27/07/2025",
+      "sold_price": "£6,000",
+      "manual_gearbox": null,
+      "description": "None",
+      "auction_house": "Hampson",
+      "country_of_sale": "United Kingdom",
+      "spyder": false,
+      "additional_details": {
+        "registration": "",
+        "chassis_number": "",
+        "mot": "",
+        "odometer": "",
+        "engine_size": ""
+      },
+      "listing_index": 5,
+      "extraction_method": "detailed_popup"
+    },
+    {
+      "make": "Mercedes",
+      "model": "CLK 320",
+      "production_year": "2025",
+      "date_of_sale": "27/07/2025",
+      "sold_price": "Awaiting Estimate",
+      "manual_gearbox": null,
+      "description": "27 Jul 2025 2001 Mercedes CLK 320 Elegance Auction • UK Awaiting Estimate ​",
+      "auction_house": "Hampson",
+      "country_of_sale": "United Kingdom",
+      "spyder": false,
+      "additional_details": {
+        "registration": "",
+        "chassis_number": "",
+        "mot": "",
+        "odometer": "",
+        "engine_size": ""
+      },
+      "listing_index": 6,
+      "extraction_method": "detailed_popup"
+    },
+    {
+      "make": "Jeep",
+      "model": "Wrangler",
+      "production_year": "2025",
+      "date_of_sale": "27/07/2025",
+      "sold_price": "Awaiting Estimate",
+      "manual_gearbox": null,
+      "description": "27 Jul 2025 2006 Jeep Wrangler Auction • UK Awaiting Estimate ​",
+      "auction_house": "Hampson",
+      "country_of_sale": "United Kingdom",
+      "spyder": false,
+      "additional_details": {
+        "registration": "",
+        "chassis_number": "",
+        "mot": "",
+        "odometer": "",
+        "engine_size": ""
+      },
+      "listing_index": 7,
+      "extraction_method": "detailed_popup"
+    },
+    {
+      "make": "Volvo",
+      "model": "940 Celebration",
+      "production_year": "2025",
+      "date_of_sale": "27/07/2025",
+      "sold_price": "Awaiting Estimate",
+      "manual_gearbox": null,
+      "description": "27 Jul 2025 1998 Volvo 940 Celebration Auction • UK Awaiting Estimate ​",
+      "auction_house": "Hampson",
+      "country_of_sale": "United Kingdom",
+      "spyder": false,
+      "additional_details": {
+        "registration": "",
+        "chassis_number": "",
+        "mot": "",
+        "odometer": "",
+        "engine_size": ""
+      },
+      "listing_index": 8,
+      "extraction_method": "detailed_popup"
+    },
+    {
+      "make": "Renault",
+      "model": "Clio Williams",
+      "production_year": "2025",
+      "date_of_sale": "27/07/2025",
+      "sold_price": "£15,000",
+      "manual_gearbox": null,
+      "description": "27 Jul 2025 1994 Renault Clio Williams Auction • UK £15,000 - £17,000 Estimate",
+      "auction_house": "Hampson",
+      "country_of_sale": "United Kingdom",
+      "spyder": false,
+      "additional_details": {
+        "registration": "",
+        "chassis_number": "",
+        "mot": "",
+        "odometer": "",
+        "engine_size": ""
+      },
+      "listing_index": 9,
+      "extraction_method": "detailed_popup"
+    }
+  ]
+}
