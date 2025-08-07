@@ -508,7 +508,7 @@ class ImprovedClassicValuerScraper:
         """Save results to CSV file."""
         try:
             timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-            filename = f'classic_valuer_improved_{timestamp}.csv'
+            filename = f'classic_valuer_improved.csv'
             
             # Ensure all listings have all required fields
             for listing in listings:
@@ -590,14 +590,11 @@ class ImprovedClassicValuerScraper:
                 # Save to CSV (primary output)
                 csv_filename = await self.save_results_csv(listings)
                 
-                # Save JSON backup
-                json_filename = await self.save_results_json_backup(listings)
                 
                 return {
                     'success': True,
                     'records_found': len(listings),
                     'csv_file': csv_filename,
-                    'json_backup': json_filename,
                     'results': listings[:10]  # Return first 10 for preview
                 }
             else:
